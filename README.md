@@ -146,7 +146,7 @@ Once the best parameters are found, the final model is trained with the optimal 
 Contributions are welcome! If you have suggestions for improvements or bug fixes, feel free to fork the repository, create a pull request, and submit your changes. Please ensure that you follow the coding standards and provide proper documentation.
 
 
-To report issues, please use the Issues section
+To report issues, please use the Issues section https://github.com/shrvya4/crop-recommendation/issues
 
 
 Sample Output:
